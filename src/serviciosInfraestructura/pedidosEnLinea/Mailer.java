@@ -17,8 +17,8 @@ public class Mailer {
     private String para;
     private String titulo;
     
-    private final String user="focus.desarrollo@gmail.com";
-    private final String pswd="focus@66";
+    private final String user="mailer@mail.com";
+    private final String pswd="passwords";
     
     private Session sesion;
     
