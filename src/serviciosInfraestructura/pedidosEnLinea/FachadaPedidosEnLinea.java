@@ -7,7 +7,7 @@ import serviciosInfraestructura.IPedidosEnLinea;
 
 /**
  * 
- * @author Rafuru
+ * @author FocusDev
  */
 public class FachadaPedidosEnLinea implements IPedidosEnLinea{
     private StringBuilder builder;
