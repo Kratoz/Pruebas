@@ -22,11 +22,11 @@ public class DatosProveedor {
      public DatosProveedor(){
          listaProveedor = new ArrayList();
 
-        Proveedor proveedor1 = new Proveedor("123", "Adrian Macias", "adrian.macias@itson.edu.mx", "1584328");
-        Proveedor proveedor2 = new Proveedor("456", "Rafael Carrillo", "masterxp79@gmail.com", "1846813");
-        Proveedor proveedor3 = new Proveedor("678", "Esteban Velarde", "mortal_saibot@hotmail.com", "384548");
-        Proveedor proveedor4 = new Proveedor("910", "Ignacio Marquez", "nxchx_280192@hotmail.com", "1790705");
-        Proveedor proveedor5 = new Proveedor("112", "Sergio Castellanos", "sergiolo03@hotmail.com", "324324");
+        Proveedor proveedor1 = new Proveedor("123", "Adrian Macias", "mail@mail.com", "1584328");
+        Proveedor proveedor2 = new Proveedor("456", "Rafael Carrillo", "mail@mail.com", "1846813");
+        Proveedor proveedor3 = new Proveedor("678", "Esteban Velarde", "mail@mail.com", "384548");
+        Proveedor proveedor4 = new Proveedor("910", "Ignacio Marquez", "mail@mail.com", "1790705");
+        Proveedor proveedor5 = new Proveedor("112", "Sergio Castellanos", "mail@mail.com", "324324");
 
 
         listaProveedor.add(proveedor1);
